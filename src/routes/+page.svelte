@@ -57,8 +57,9 @@
 </svelte:head>
 
 <main class="container">
+  
   <h1>Bari Scooter Rentals</h1>
-  <p>Discover Bari at your own pace with our fleet of modern electric scooters.</p>
+  <p>Discover the beautiful city of Bari and the stunning Puglia region at your own pace with our fleet of modern electric scooters.</p>
 
   <section>
     <h2>Why Ride With Us?</h2>
@@ -66,9 +67,24 @@
       <li>Eco-friendly electric scooters with up to 50 km range</li>
       <li>Competitive hourly and daily rates</li>
       <li>Free helmet and lock included</li>
-      <li>24/7 roadside assistance</li>
+      <li>24/7 roadside assistance throughout Bari</li>
+      <li>Perfect for exploring Bari Vecchia (Old Town) and the waterfront</li>
     </ul>
   </section>
+
+  <section>
+    <h2>Explore Bari's Best Attractions</h2>
+    <ul>
+      <li><strong>Basilica di San Nicola</strong> - Historic pilgrimage site in Bari Vecchia</li>
+      <li><strong>Castello Normanno-Svevo</strong> - Medieval castle overlooking the Adriatic</li>
+      <li><strong>Teatro Petruzzelli</strong> - One of Italy's most important opera houses</li>
+      <li><strong>Lungomare Nazario Sauro</strong> - Beautiful seafront promenade</li>
+      <li><strong>Via del Corso & Via Sparano</strong> - Main shopping streets</li>
+      <li><strong>Pane e Pomodoro Beach</strong> - Popular city beach</li>
+    </ul>
+  </section>
+    
+     
 
   <section>
     <h2>Pricing</h2>
